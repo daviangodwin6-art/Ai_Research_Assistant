@@ -1,0 +1,12 @@
+[
+  {"name": "Dr. Meera Raghavan", "department": "CSE", "domains": ["Computer Vision"], "lab": "Vision & Intelligence Lab"},
+  {"name": "Dr. Sanjay Kulkarni", "department": "CSE", "domains": ["Robotics"], "lab": "Autonomous Systems Lab"},
+  {"name": "Dr. Priya Suresh", "department": "CSE", "domains": ["Natural Language Processing"], "lab": "Language Technologies Lab"},
+  {"name": "Dr. Arjun Bose", "department": "CSE", "domains": ["Human-Computer Interaction"], "lab": "HCI & Design Lab"},
+  {"name": "Dr. Kavya Nambiar", "department": "CSE", "domains": ["Machine Learning"], "lab": "Applied ML Lab"},
+  {"name": "Dr. Rahul Varma", "department": "CSE", "domains": ["Cybersecurity"], "lab": "Cyber Defense Lab"},
+  {"name": "Dr. Anjali Deshpande", "department": "CSE", "domains": ["Cloud Computing"], "lab": "Distributed Systems Lab"},
+  {"name": "Dr. Vikram Shetty", "department": "CSE", "domains": ["Bioinformatics"], "lab": "Computational Biology Lab"},
+  {"name": "Dr. Nithya Ramachandran", "department": "CSE", "domains": ["Game Development"], "lab": "Immersive Media Lab"},
+  {"name": "Dr. Farhan Ali", "department": "CSE", "domains": ["IoT and Embedded Systems"], "lab": "IoT Systems Lab"}
+]

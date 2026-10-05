@@ -1,0 +1,82 @@
+[
+  {
+    "id": "P1", "title": "Computer Vision Research", "domain": "Computer Vision",
+    "faculty": "Dr. Meera Raghavan",
+    "must_have_skills": ["Python", "Machine Learning"],
+    "nice_to_have_skills": ["OpenCV", "PyTorch", "Deep Learning", "Image Processing"],
+    "interests_tags": ["image classifier", "Computer Vision", "object detection", "deep learning projects", "pattern recognition"],
+    "min_year": 1, "min_availability": 8
+  },
+  {
+    "id": "P2", "title": "Robotics and Autonomous Systems", "domain": "Robotics",
+    "faculty": "Dr. Sanjay Kulkarni",
+    "must_have_skills": ["C++", "Arduino"],
+    "nice_to_have_skills": ["Sensors", "ROS", "Control Systems", "Embedded C"],
+    "interests_tags": ["obstacle-avoiding robot", "line-following robot", "Robotics", "autonomous navigation", "hardware prototyping"],
+    "min_year": 1, "min_availability": 6
+  },
+  {
+    "id": "P3", "title": "NLP and Conversational AI", "domain": "Natural Language Processing",
+    "faculty": "Dr. Priya Suresh",
+    "must_have_skills": ["Python", "Machine Learning"],
+    "nice_to_have_skills": ["NLP basics", "Transformers", "SQL", "Text Processing"],
+    "interests_tags": ["college FAQ chatbot", "NLP", "conversational AI", "language technology", "chatbots"],
+    "min_year": 1, "min_availability": 5
+  },
+  {
+    "id": "P4", "title": "Applied Machine Learning for Education", "domain": "Machine Learning",
+    "faculty": "Dr. Kavya Nambiar",
+    "must_have_skills": ["Python", "Machine Learning"],
+    "nice_to_have_skills": ["Pandas", "Statistics", "Scikit-learn", "Data Visualization"],
+    "interests_tags": ["student performance dataset analysis", "Machine Learning", "data science", "predictive modeling", "educational technology"],
+    "min_year": 1, "min_availability": 10
+  },
+  {
+    "id": "P5", "title": "Human-Computer Interaction Lab", "domain": "Human-Computer Interaction",
+    "faculty": "Dr. Arjun Bose",
+    "must_have_skills": ["Java", "UI/UX Design"],
+    "nice_to_have_skills": ["Android Basics", "User Research", "Figma", "Prototyping"],
+    "interests_tags": ["timetable app prototype", "HCI", "app development", "user experience", "interface design"],
+    "min_year": 1, "min_availability": 4
+  },
+  {
+    "id": "P6", "title": "Applied Cybersecurity and Network Defense", "domain": "Cybersecurity",
+    "faculty": "Dr. Rahul Varma",
+    "must_have_skills": ["Python", "Linux"],
+    "nice_to_have_skills": ["Networking basics", "Security fundamentals", "Cryptography basics", "Scripting"],
+    "interests_tags": ["capture the flag", "Cybersecurity", "ethical hacking", "network defense", "penetration testing"],
+    "min_year": 1, "min_availability": 6
+  },
+  {
+    "id": "P7", "title": "Cloud-Native Distributed Systems", "domain": "Cloud Computing",
+    "faculty": "Dr. Anjali Deshpande",
+    "must_have_skills": ["Python", "Linux"],
+    "nice_to_have_skills": ["Docker", "REST APIs", "Cloud Platforms", "Databases"],
+    "interests_tags": ["backend service", "Cloud Computing", "distributed systems", "system design", "DevOps"],
+    "min_year": 1, "min_availability": 8
+  },
+  {
+    "id": "P8", "title": "Computational Biology and Genomic Data", "domain": "Bioinformatics",
+    "faculty": "Dr. Vikram Shetty",
+    "must_have_skills": ["Python", "Statistics"],
+    "nice_to_have_skills": ["Biology basics", "Data Analysis", "R programming", "Genomics basics"],
+    "interests_tags": ["genomic dataset analysis", "Bioinformatics", "computational biology", "life sciences", "data-driven biology"],
+    "min_year": 1, "min_availability": 6
+  },
+  {
+    "id": "P9", "title": "Game Development and Interactive Media", "domain": "Game Development",
+    "faculty": "Dr. Nithya Ramachandran",
+    "must_have_skills": ["C#", "Unity"],
+    "nice_to_have_skills": ["Game Design", "3D Basics", "Animation basics", "Level Design"],
+    "interests_tags": ["2D platformer", "Game Development", "interactive media", "3D graphics", "game design"],
+    "min_year": 1, "min_availability": 6
+  },
+  {
+    "id": "P10", "title": "IoT and Embedded Systems Research", "domain": "IoT and Embedded Systems",
+    "faculty": "Dr. Farhan Ali",
+    "must_have_skills": ["C", "Arduino"],
+    "nice_to_have_skills": ["Embedded C", "Sensors", "Microcontrollers", "Circuit Design"],
+    "interests_tags": ["smart home prototype", "IoT and Embedded Systems", "hardware", "connected devices", "embedded programming"],
+    "min_year": 1, "min_availability": 6
+  }
+]

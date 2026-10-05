@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Aarav Menon",
+    "year": 1,
+    "department": "CSE",
+    "skills": ["Python", "Machine Learning", "OpenCV"],
+    "interests": ["Computer Vision", "Robotics"],
+    "academic_background": "CSE core, intro to AI and data structures",
+    "projects": ["image classifier", "line-following robot"],
+    "research_interests": ["Computer Vision"],
+    "availability_hours": 10
+  },
+  {
+    "name": "Diya Krishnan",
+    "year": 1,
+    "department": "CSE",
+    "skills": ["Python", "NLP basics", "SQL"],
+    "interests": ["Natural Language Processing", "Chatbots"],
+    "academic_background": "CSE core, discrete mathematics",
+    "projects": ["college FAQ chatbot"],
+    "research_interests": ["NLP"],
+    "availability_hours": 6
+  },
+  {
+    "name": "Rohan Iyer",
+    "year": 1,
+    "department": "CSE",
+    "skills": ["C++", "Arduino", "Sensors"],
+    "interests": ["Robotics", "IoT"],
+    "academic_background": "CSE core, digital logic",
+    "projects": ["obstacle-avoiding robot"],
+    "research_interests": ["Robotics"],
+    "availability_hours": 8
+  },
+  {
+    "name": "Sneha Pillai",
+    "year": 1,
+    "department": "CSE",
+    "skills": ["Python", "Pandas", "Statistics"],
+    "interests": ["Data Science", "Machine Learning"],
+    "academic_background": "CSE core, intro to AI",
+    "projects": ["student performance dataset analysis"],
+    "research_interests": ["Machine Learning"],
+    "availability_hours": 12
+  },
+  {
+    "name": "Kabir Nair",
+    "year": 1,
+    "department": "CSE",
+    "skills": ["Java", "Android Basics"],
+    "interests": ["App Development", "Human-Computer Interaction"],
+    "academic_background": "CSE core, OOP concepts",
+    "projects": ["timetable app prototype"],
+    "research_interests": ["HCI"],
+    "availability_hours": 5
+  }
+]
